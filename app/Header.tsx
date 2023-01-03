@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import LogoutButton from './LogoutButton';
+// import dynamic from 'next/dynamic';
 
 const Header = () => {
   const session = true;
